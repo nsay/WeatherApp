@@ -1,6 +1,6 @@
 # Weather App
 
-This is a simple weather app using HTML, LESS , Angular and using Rapid API's Open Weather Map API
+This is a simple weather app using Angular with Rapid API's Open Weather Map API
 
 ## Techologies Used
  1. HTML5
