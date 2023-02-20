@@ -27,5 +27,5 @@ In order to run this machine locally, you would need to create an account on Rap
  
  5. Go to Rapid API's Open Weather API (https://rapidapi.com/worldapi/api/open-weather13/)
  6. Scroll down and copy the X-RapidAPI-Key. This is your API Key. 
- 7. Inside *environment.development.ts* file, replace **SECRET_API_KEY with the copied API Key**.
+ 7. Inside *environment.development.ts*, replace **SECRET_API_KEY with the copied API Key**.
  8. Lastly, run this app by using CLI command - `ng serve -o`
