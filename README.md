@@ -5,7 +5,7 @@ This is a simple weather app using Angular with Rapid API's Open Weather Map API
 ## Techologies Used
  1. HTML5
  2. LESS
- 3. Typscript
+ 3. Typescript
  4. [Angular CLI](https://github.com/angular/angular-cli) version 15.1.6.
  5. [Open Weather Map API](https://rapidapi.com/worldapi/api/open-weather13/)
 
